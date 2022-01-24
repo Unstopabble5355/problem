@@ -40,7 +40,7 @@ function draw() {
   ellipse(ball.position.x,ball.position.y,20,20) 
 leftside.display();
   groundObj.display();
-
+rightside.display();
  
   drawSprites();
  
